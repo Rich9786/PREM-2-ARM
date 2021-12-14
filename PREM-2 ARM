@@ -480,9 +480,9 @@ http://158.69.226.108:8000/live/Vfjjjhj/Djdkfk/1644.ts
 http://tecnotv.club/8di/geomex.php?c=19&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" group-title="NOTICIAS",FOROTV HD
 http://tecnotv.club/8di/geomex.php?c=4&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://www.telesistematototlan.com.mx/static/img/canales/adn40.jpg" group-title="NOTICIAS",ADN40
+#EXTINF:-1 logo="https://radionotas.com/wp-content/uploads/2017/10/ADN-40.jpg" group-title="NOTICIAS",ADN40
 http://tecnotv.club/8di/geomex.php?c=40&p=3&k=tecnotv&f=.m3u8 
-#EXTINF:-1 logo="https://www.telesistematototlan.com.mx/static/img/canales/adn40.jpg" group-title="NOTICIAS",ADN 40 HD
+#EXTINF:-1 logo="https://pbs.twimg.com/media/C62AHXzU8AAbEQj.jpg" group-title="NOTICIAS",ADN 40 HD
 http://tecnotv.club/8di/geomex.php?c=184&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="NOTICIAS",CNN 1
 http://tecnotv.club/8di/geomex.php?c=186&p=3&k=tecnotv&f=.m3u8
@@ -569,12 +569,8 @@ http://127.0.0.1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/8di/smartv2.php?c=1905
+http://tecnotv.club/8di/sport.php?c=directv&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv Sports 1
-http://tecnotv.club/8di/smartv2.php?c=1904
-#EXTINF:-1 tvg-id="" tvg-name="Directv sports LAT" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/DIRECTV-SPORTS.jpg" group-title="DEPORTES",Directv sports LAT
-http://tecnotv.club/8di/smartv2.php?c=1939
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DEPORTES",Directv Sports 2
 http://tecnotv.club/8di/sport.php?c=directv2&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN 
 http://tecnotv.club/8di/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8
@@ -582,68 +578,46 @@ http://tecnotv.club/8di/geomex.php?c=169&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/8di/geomex.php?c=168&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 
 http://tecnotv.club/8di/geomex.php?c=345&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 
-http://tecnotv.club/8di/smartv2.php?c=1935
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="DEPORTES",ESPN EXTRA 
 http://tecnotv.club/8di/geomex.php?c=167&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/ZzDBSyC.jpg" group-title="DEPORTES",ESPN SUR
-http://tecnotv.club/8di/smartv2.php?c=1933
+http://tecnotv.club/8di/android3.php?c=97|User-Agent=megapro
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRoRtyDS60SO2G2feh5WUUuLcCbW8YPPurEUjMOkHphIWrH69sXP66e-fVKwImoYRWdjI&usqp=CAU" group-title="DEPORTES",ESPN 2 SUR
-http://tecnotv.club/8di/smartv2.php?c=1934
-#EXTINF:-1 tvg-id="" tvg-name="Espn 2 col" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="DEPORTES",Espn 2 col
-http://tecnotv.club/8di/smartv2.php?c=1891
+http://tecnotv.club/8di/android3.php?c=96|User-Agent=megapro
 #EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 SUR
-http://tecnotv.club/8di/smartv2.php?c=1893
-#EXTINF:-1 logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="DEPORTES",ESPN 3 SUR
-http://tecnotv.club/8di/smartv2.php?c=1894
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/66/ESPN4_logo.png" group-title="DEPORTES",ESPN 4 SUR
-http://tecnotv.club/8di/smartv2.php?c=1879
+http://tecnotv.club/8di/android3.php?c=95|User-Agent=megapro
 #EXTINF:-1 logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES",FOX SPORTS
 http://tecnotv.club/8di/geomex.php?c=170&p=3&k=tecnotv&f=.m3u8  
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2
 http://tecnotv.club/8di/geomex.php?c=172&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 
 http://tecnotv.club/8di/geomex.php?c=178&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",Fox Sports 2 sur
-http://tecnotv.club/8di/smartv2.php?c=1880
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 SUR
-http://tecnotv.club/8di/smartv2.php?c=1882
+http://tecnotv.club/8di/android.php?c=87|User-Agent=W&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKjuW&z3YOr^IDlAWm*k@vgr$X4haJ0K*fPOaB%b2i&ANIH8Dv@m9MZMiFK5Ck&g9s6jNP6&FK*V5%mdF9ml5sW0odNi00X4oCdWRPZmZkf#XDEUrb^v3EMy3zX$oEtOFTl&leonuoEzUF49lbE19SIEyygX4fbYxTau4xMQto6&YyAgJ!^q!X6TfUW!SW7MWfj7Ttgoy0RKRK0t2ehRv^va2Wf^rJIjxeqjt074^uq5k8wib4fj#EC2Q0EKju&5l7cYqlo2ulh1RiF0PUAs8Fbvu8N#NECIzv&kM9KajbZlBNneTiiqF5R@n$b^*ET3E0m#hc^*qSZ^eQKUomQ^iPX^DA%&sbXt5eyuNLEazP!i&KJvEdGwU7NP*hz$t$udg#M%A!&z7hNO*XlqGeuY
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 SUR
-http://tecnotv.club/8di/smartv2.php?c=1883
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premiun" tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-premium_m.png" group-title="DEPORTES",Fox Sports Premiun
-http://tecnotv.club/8di/smartv2.php?c=1884
-#EXTINF:-1 tvg-id="" tvg-name="Fox sports premiun" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/3951.png" group-title="DEPORTES",Fox sports premiun
-http://tecnotv.club/8di/smartv2.php?c=1950
+http://tecnotv.club/8di/android3.php?c=72|User-Agent=megapro
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN
 http://tecnotv.club/8di/geomex.php?c=174&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN HD
 http://tecnotv.club/8di/geomex.php?c=1049&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://televisa.brightspotcdn.com/dims4/default/dfb2a13/2147483647/strip/true/crop/1000x750+0+50/resize/716x537!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F7e%2F02%2F46d2d9304ca9b8e8f4a2828d05a6%2Ftudn.png" group-title="DEPORTES",TUDN USA
-http://tecnotv.club/8di/smartv2.php?c=1954
+http://tecnotv.club/8di/sport.php?c=tudn-us&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
-http://tecnotv.club/8di/smartv2.php?c=1870
+http://tecnotv.club/8di/android3.php?c=98|User-Agent=megapro
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs" group-title="DEPORTES",WIN SPORTS PLUS SEÑAL
-http://tecnotv.club/8di/smartv2.php?c=1869
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports México
-http://tecnotv.club/8di/smartv2.php?c=1907
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports Argentina
-http://tecnotv.club/8di/smartv2.php?c=1899
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="DEPORTES",TNT Sports 2 Chile
-http://tecnotv.club/8di/smartv2.php?c=1900
-#EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="DEPORTES",CDO BASICO
-http://tecnotv.club/8di/smartv2.php?c=1901
+http://tecnotv.club/8di/android3.php?c=374|User-Agent=megapro
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102018/untitled-1_0.png?F6I3fSfXjacEnK1eqDG27n_ZDOB47hGe&itok=O6OvPoFN" group-title="DEPORTES",TYC Sports
-http://tecnotv.club/8di/smartv2.php?c=375
+http://tecnotv.club/8di/sport.php?c=tycsports&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/TIGfZjN.jpg" group-title="DEPORTES",AYM SPORTS
 http://tecnotv.club/8di/geomex.php?c=180&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg" group-title="DEPORTES",Bein La Liga
-http://tecnotv.club/8di/smartv2.php?c=1918
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports | PE
 https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="DEPORTES",ADRENALINA SPORTS
 http://tecnotv.club/8di/geomex.php?c=1799&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES",UFC
-http://tecnotv.club/8di/smartv2.php?c=1913
+http://tecnotv.club/8di/android3.php?c=353|User-Agent=megapro
+#EXTINF:-1 logo="https://nrd.es/wp-content/uploads/fight-time.jpg" group-title="DEPORTES",Fight Time
+http://tecnotv.club/8di/sport.php?c=fight&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://www.thematv.com/medias/channels/latin-american-sports/logo.png" group-title="DEPORTES",LAS
 http://tecnotv.club/8di/geomex.php?c=2089&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://image.roku.com/developer_channels/prod/589b4cd88e68a992ed94d21b544f452ad50b6537a81141169058f5c7d171277f.png" group-title="DEPORTES",HAVOC
@@ -651,37 +625,33 @@ http://tecnotv.club/8di/geomex.php?c=2148&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5VIABPc2GBuRbJTPZCTgf-JLHdKaeue8x-hSeKY92HDxK8ep6u--oyR0ys2c1V1itNmU&usqp=CAU" group-title="DEPORTES",TVC DEPORTES
 http://tecnotv.club/8di/geomex.php?c=2157&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS
-http://tecnotv.club/8di/geomex.php?c=2564&p=3&k=tecnotv&f=.m3u8
+http://tecnotv.club/8di/sport.php?c=clarosports&k=tecno&f=.m3u8
 #EXTINF:-1 logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png" group-title="DEPORTES",CLARO SPORTS
-http://tecnotv.club/8di/smartv2.php?c=1902
+http://tecnotv.club/8di/geomex.php?c=2564&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES",Izzi Afizzionados
-http://tecnotv.club/8di/smartv2.php?c=500
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV Ecuador" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV Ecuador
-http://tecnotv.club/8di/smartv2.php?c=1944
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV
-http://tecnotv.club/8di/smartv2.php?c=1945
+http://tecnotv.club/8di/sport.php?c=afizzionados&k=tecno&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV Ecuador" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV 
+http://tecnotv.club/8di/sport.php?c=goltv&k=tecno&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg" group-title="DEPORTES",Gol TV INTERNACIONAL
+http://tecnotv.club/8di/android3.php?c=338|User-Agent=megapro
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES",Tigo Sports 1
-http://tecnotv.club/8di/android3.php?c=339|User-Agent=tupro
+http://tecnotv.club/8di/android3.php?c=339|User-Agent=megapro
 #EXTINF:-1 logo="https://i.pinimg.com/originals/5c/72/a6/5c72a626639831531789ea2d91ed3b86.jpg" group-title="DEPORTES",Tigo Sports 2
-http://tecnotv.club/8di/android3.php?c=340|User-Agent=tupro
+http://tecnotv.club/8di/android3.php?c=340|User-Agent=megapro
 #EXTINF:-1 logo="https://pbs.twimg.com/profile_images/956163044022812672/dP8Y7OuN_400x400.jpg" group-title="DEPORTES",Tigo Sports 3
-http://tecnotv.club/8di/android3.php?c=341|User-Agent=tupro
+http://tecnotv.club/8di/android3.php?c=341|User-Agent=megapro
 EXTINF:-1 tvg-id="" tvg-name=" Real Madrid TV" tvg-logo="https://as00.epimg.net/img/comunes/fotos/fichas/equipos/large/1.png" group-title="DEPORTES", Real Madrid TV
-http://tecnotv.club/8di/smartv2.php?c=1906
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES",Movistar Deportes
-http://tecnotv.club/8di/smartv2.php?c=1909
-#EXTINF:-1 tvg-id="" tvg-name="Movistar deportes peru" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES",Movistar deportes peru
-http://tecnotv.club/8di/smartv2.php?c=1946
+http://tecnotv.club/8di/android3.php?c=352|User-Agent=megapro
+#EXTINF:-1 tvg-id="" tvg-name="Movistar deportes peru" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES",Movistar LA LIGA
+http://tecnotv.club/8di/sport.php?c=mlaliga&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Liga De Campeones" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Movistar-Liga-de-Campeones.jpg?fit=300%2C236&ssl=1" group-title="DEPORTES",Liga De Campeones
-http://tecnotv.club/8di/smartv2.php?c=1917
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Latino" tvg-logo="https://play-lh.googleusercontent.com/r_zZcURuNO_Ax1prrWgkh5yA-DYhqN9Y_6APwskJIdg9Kwx8ujexkR1pML4xfSn5aBwX" group-title="DEPORTES",Sky Sports La liga
-http://tecnotv.club/8di/smartv2.php?c=1956
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Esp" tvg-logo="https://play-lh.googleusercontent.com/r_zZcURuNO_Ax1prrWgkh5yA-DYhqN9Y_6APwskJIdg9Kwx8ujexkR1pML4xfSn5aBwX" group-title="DEPORTES",Sky Sports Premier Leage 
-http://tecnotv.club/8di/smartv2.php?c=1957
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmdo90l5LX-3wTKL2x2EvfyHFnhinC8XsWpjr4d7OuFF0eh9sPrXRotBYeN7AlGKghM0&usqp=CAU" group-title="DEPORTES",Bein sports ñ T Es
-http://tecnotv.club/8di/smartv2.php?c=1868
+http://tecnotv.club/8di/sport.php?c=mligadec&k=tecno&f=.m3u8
+EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmdo90l5LX-3wTKL2x2EvfyHFnhinC8XsWpjr4d7OuFF0eh9sPrXRotBYeN7AlGKghM0&usqp=CAU" group-title="DEPORTES",Bein sports ñ T Es
+http://tecnotv.club/8di/android3.php?c=343|User-Agent=megapro
 #EXTINF:-1 tvg-id="" tvg-name="Bein sports LAT" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN.png" group-title="DEPORTES",Bein sports US
-http://tecnotv.club/8di/smartv2.php?c=1916
+http://tecnotv.club/8di/sport.php?c=beinhd&k=tecno&f=.m3u8
+#EXTINF:-1 logo="https://www.koamnewsnow.com/content/uploads/2020/04/NFL-logo.jpg" group-title="DEPORTES",NFL NETWORK
+http://tecnotv.club/8di/sport.php?c=nfl&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png" group-title="DEPORTES",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Algeria",Abu Dhabi Sports 1 (1080p)
@@ -691,9 +661,7 @@ http://tecnotv.club/8di/geomex.php?c=2587&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://i.imgur.com/qyrzMjg.jpg" group-title="DEPORTES",GOLF
 http://tecnotv.club/8di/geomex.php?c=179&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES",MLB
-http://tecnotv.club/8di/smartv2.php?c=1871
-#EXTINF:-1 tvg-id="" tvg-name="Formula 1" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/min652x435/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="DEPORTES",Formula 1
-http://tecnotv.club/8di/smartv2.php?c=1872
+http://tecnotv.club/8di/android3.php?c=349|User-Agent=megapro
 #EXTINF:-1 tvg-id="" tvg-name="NBA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="DEPORTES",NBA
 http://tecnotv.club/8di/smartv2.php?c=1875
 

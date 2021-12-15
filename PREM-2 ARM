@@ -678,6 +678,8 @@ EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmdo90l5L
 http://tecnotv.club/8di/android3.php?c=343|User-Agent=megapro
 #EXTINF:-1 tvg-id="" tvg-name="Bein sports LAT" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN.png" group-title="DEPORTES",Bein sports US
 http://tecnotv.club/8di/sport.php?c=beinhd&k=tecno&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2020/04/MLS-Logo-White-1.png" group-title="USA",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 logo="https://www.koamnewsnow.com/content/uploads/2020/04/NFL-logo.jpg" group-title="DEPORTES",NFL NETWORK
 http://tecnotv.club/8di/sport.php?c=nfl&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://2.bp.blogspot.com/-0wlOLgIzZWU/W2vkaoVLICI/AAAAAAAAqyA/7kqKVQMbsFQ8SOg--yrVdrmeMr4uVEW2ACLcBGAs/s1600/plugin-addon-redbulltv.png" group-title="DEPORTES",Red Bull TV
@@ -829,7 +831,7 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Hip-Hop
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Hip-Hop
 https://loop-hip-hop-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="115097" tvg-name="TV Exitos" tvg-logo="http://www.m3u.cl/logo/108992_TV_Exitos.jpg", TV Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
@@ -865,9 +867,9 @@ http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/5.m3u8?PlaylistM3UCL
 https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-country="CL" tvg-language="" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" group-title="Chile",TV Pop (720p)
 https://v4.tustreaming.cl/poptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop 90s
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop 90s
 https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Hottest
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Hottest
 https://loop-hottest-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Mix 24-7 VdjMix Pop" tvg-logo="https://www.m3u.cl/logo/11_Mix_24_7_VdjMix_Pop.png", Mix 24-7 VdjMix Pop 
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/6.m3u8?PlaylistM3UCL
@@ -879,7 +881,7 @@ https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://www.m3u.cl/logo/955_MCRT_80s.png", MCRT 80s | CA
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop 80s
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop 80s
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0855ZEHNDIxWP4M2ZmgG015AxYd-xRLxUplpt0t3-qipmhnb6" group-title="Without category",estrella de Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -887,7 +889,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="NETHERLANDS",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Holidays
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Holidays
 https://loop-party-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV * | CL
 https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8?PlaylistM3UCL
@@ -915,7 +917,7 @@ https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlis
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Country
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Country
 https://loop-country-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U 
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8

@@ -185,6 +185,10 @@ http://tecnotv.club/8di/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/owRXYl4.png" group-title="USA",eScapes
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="USA",Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="USA",Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 #EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="MUNDO Y CULTURA",Street Music 4U (720p)
@@ -262,6 +266,8 @@ http://tecnotv.club/8di/geomex.php?c=340&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/8di/geomex.php?c=79&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/mx_tru-tv-hd_m.png" group-title="ENTRETENIMIENTO",TRUTV HD
 http://tecnotv.club/8di/geomex.php?c=215&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1j2zatC.png" group-title="USA",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="USA",America's Funniest Videos
@@ -272,6 +278,10 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itdqWaX.png" group-title="USA",Cute Zone
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOfKjjY.png" group-title="USA",Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3nsabd.png" group-title="USA",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hhMxjSI.png" group-title="USA",Camera Smile
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1223px-Logo_tlnovelas_feb2019.png" group-title="ENTRETENIMIENTO",TL NOVELAS 
@@ -819,6 +829,8 @@ https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Hip-Hop
+https://loop-hip-hop-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="115097" tvg-name="TV Exitos" tvg-logo="http://www.m3u.cl/logo/108992_TV_Exitos.jpg", TV Exitos
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
@@ -853,6 +865,10 @@ http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/5.m3u8?PlaylistM3UCL
 https://stmv.negotv.com/top2021/top2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TVPop.cl" tvg-country="CL" tvg-language="" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png" group-title="Chile",TV Pop (720p)
 https://v4.tustreaming.cl/poptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop 90s
+https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Hottest
+https://loop-hottest-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="Mix 24-7 VdjMix Pop" tvg-logo="https://www.m3u.cl/logo/11_Mix_24_7_VdjMix_Pop.png", Mix 24-7 VdjMix Pop 
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="80098" tvg-name="Maxima FM" tvg-logo="https://lh3.googleusercontent.com/-RF13xAQ97o0/XxzMzRqfnBI/AAAAAAAA3Zc/xet9CCbU7H8WEPRQGCXEPpiBxM5RUK6EwCK8BGAsYHg/s0/2020-07-25.png", Maxima FM
@@ -863,12 +879,16 @@ https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://www.m3u.cl/logo/955_MCRT_80s.png", MCRT 80s | CA
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop 80s
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0855ZEHNDIxWP4M2ZmgG015AxYd-xRLxUplpt0t3-qipmhnb6" group-title="Without category",estrella de Ocko
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT2PRkdyFmcJ_2SOZdDDFaV9u47ueGKq70mvRa7AZwU_7bF4ng" group-title="Without category",IR RT
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dzfjea6.png" group-title="NETHERLANDS",GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Holidays
+https://loop-party-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV * | CL
 https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1009" tvg-name="Radiomania" tvg-logo="https://www.m3u.cl/logo/1009_Radiomania.png", Radiomania | CL
@@ -887,12 +907,16 @@ http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/4.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116605" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://lh3.googleusercontent.com/-mOgOT3QHduQ/XxcP0slOnxI/AAAAAAAA3KI/s0jjr5v_hUsKOLXgjwJM3uZ88HJDjR7bQCK8BGAsYHg/s0/2020-07-21.png", Mix 24-7 Conciertos Live
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/7.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KiInumZ.png" group-title="USA",Live X Live
+https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.coolstreaming.us/img/ch/image96541126632.jpg" group-title="",Muxx.tv
 https://5856e1a25f71a.streamlock.net/easycast7-live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="International",Street Music 4U (720p)
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="USA",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eyihuzq.png" group-title="USA",Loop Country
+https://loop-country-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aL4DvbN.png" group-title="USA",Country Music 4U 
 https://59d39900ebfb8.streamlock.net/countrymusic4u/countrymusic4u/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MLqDkEz.png" group-title="USA",Ditty TV

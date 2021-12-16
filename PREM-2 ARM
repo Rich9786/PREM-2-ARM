@@ -185,6 +185,8 @@ http://tecnotv.club/8di/geomex.php?c=92&p=3&k=tecnotv&f=.m3u8
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/UWsEbEWXGqZGJ_T2_di9ZJrq_Cks99Ab98rtvKXTi2fgw4J4d76XH4lRvwj6910G5YYb3A7B5gMaDgLKoGVS_sOH-O1ZHhVfCPyD1S3WF5jHFEDdNwOTpnT_br-arOCmyr20-ze8d9Qszw=w1200-h630-p-k-no-nu" group-title="USA",eScapes
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tNOTUWP.png" group-title="USA",Soar
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 tvg-logo="https://images-platform.99static.com/iMlkPkLmz9S_5tmucFzSt9f1mXs=/0x0:1504x1504/500x500/top/smart/99designs-contests-attachments/124/124409/attachment_124409255" group-title="USA",Forests Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lakeofthepines.cc/uploads/3/4/0/6/34062187/4169883_orig.jpg" group-title="USA",Lakes Live

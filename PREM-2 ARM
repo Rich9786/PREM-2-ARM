@@ -195,8 +195,8 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/www.differencebetween.com/wp-content/uploads/2019/01/Difference-Between-Brook-and-Creek-fig-2.jpg" group-title="USA",Rivers Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="115395" tvg-name="AC Vision" tvg-logo="https://lh3.googleusercontent.com/-PcW7rdALGRs/X6mvq9Fen5I/AAAAAAAA7Jg/d2M4m6dlgoQ10S2Oy3j-B_haDgl6-6qOwCK8BGAsYHg/s0/2020-11-09.png", AC Vision
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b7c21e65f85d4735f07051afcf70fe75.png" group-title="USA",Loop Holidays
+https://loop-party-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="MUNDO Y CULTURA",Street Music 4U (720p)
 https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
 #EXTINF:-1 logo="https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg" group-title="MUNDO Y CULTURA",DISCOVERY THEATER

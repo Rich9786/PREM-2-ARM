@@ -612,7 +612,7 @@ http://tecnotv.club/2ene/geomex.php?c=2091&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/2ene/geomex.php?c=203&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="EuronewsenEspanol.fr" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="International",Euronews en Español (720p)
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="SPAIN",Euronews (Opt-2)
+#EXTINF:-1 tvg-logo="https://media-cdn.t24.com.tr/media/library/2021/02/1613030823817-110220210206437738460.jpg" group-title="SPAIN",Euronews (Opt-2)
 https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="Informativos" tvg-name="24h",24h
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8

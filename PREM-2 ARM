@@ -62,8 +62,10 @@ http://tecnotv.club/2ene/geomex.php?c=84&p=3&k=tecnotv&f=.m3u8
 http://tecnotv.club/2ene/geomex.php?c=2316&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MEXICO",TELEFORMULA
 http://tecnotv.club/2ene/geomex.php?c=32&p=3&k=tecnotv&f=.m3u8
-#EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV
+#EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV S1
 http://tecnotv.club/2ene/geomex.php?c=44&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 logo="https://lh3.googleusercontent.com/-QoXY7TlxuYw/Xzm9VnZHQBI/AAAAAAAA4hw/eE9OyjF80iAxcb8p_Osvfbf8aktofhxWgCK8BGAsYHg/s0/2020-08-16.png" group-title="MEXICO",MEXIQUENSE TV S2 - FLUX
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w1045015137.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png" group-title="MEXICO",TVC
 http://tecnotv.club/2ene/geomex.php?c=2156&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atv.png/revision/latest?cb=20200830194250" group-title="MEXICO",APREDNE TV

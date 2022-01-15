@@ -744,6 +744,8 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png", Mi TV Televisión Clásica
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - GEO
 http://clubtv.link/10n/geomex.php?c=201&f=.m3u8
 #EXTINF:-1 logo="https://lumiere-a.akamaihd.net/v1/images/star_channel_500x575_e80d1d60.png" group-title="SERIES Y CINE",Star Channel HD - GEO 2
@@ -1216,8 +1218,7 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://www.m3u.cl/logo/477_Telered.png", Telered | CR
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://www.m3u.cl/logo/478_Telesistema.png", Telesistema | CR
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
 
 
 

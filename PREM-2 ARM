@@ -1101,7 +1101,7 @@ http://clubtv.link/10n/geomex2.php?c=136&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=136&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE",EUROPA CHANNEL - ANDR
 http://regioplay.xyz/php/SR_REGIO_101022_/regiotv2.php?c=148|User-Agent=tuplayer
-#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - LIS 3
+#EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS HD - LIS 3
 http://clubtv.link/10n/lista3.php?c=149
 #EXTINF:-1 logo="https://cdn.mitvstatic.com/channels/cl_film-arts_m.png" group-title="CINE Y SERIES",FILM & ARTS - GEO
 http://clubtv.link/10n/geomex.php?c=137&f=.m3u8
